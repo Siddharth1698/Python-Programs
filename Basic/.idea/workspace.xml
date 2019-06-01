@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07741a2c-6589-4e81-a11e-52d9a3d1368e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ascii.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/squareSum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,11 +58,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ascii.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
               <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/squareSum.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -94,6 +104,7 @@
         <option value="$PROJECT_DIR$/checkFibonacci.py" />
         <option value="$PROJECT_DIR$/fibbnth.py" />
         <option value="$PROJECT_DIR$/ascii.py" />
+        <option value="$PROJECT_DIR$/squareSum.py" />
       </list>
     </option>
   </component>
@@ -160,7 +171,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ascii">
+  <component name="RunManager" selected="Python.squareSum">
     <configuration name="ascii" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Basic" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -245,7 +256,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="primeOrNot" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="squareSum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Basic" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -257,7 +268,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/primeOrNot.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/squareSum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -268,11 +279,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.squareSum" />
         <item itemvalue="Python.ascii" />
         <item itemvalue="Python.fibbnth" />
         <item itemvalue="Python.checkFibonacci" />
         <item itemvalue="Python.fibonacci" />
-        <item itemvalue="Python.primeOrNot" />
       </list>
     </recent_temporary>
   </component>
@@ -401,6 +412,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/squareSum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
         </state>
       </provider>
     </entry>
